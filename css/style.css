@@ -1,0 +1,156 @@
+
+body {
+background-color:#55c5d1 !important;
+
+}
+.empty{
+margin-top:160px;
+}
+.align-center
+{
+margin: 0 auto 30px !important;
+ display: block !important;
+}
+.container{
+padding-top:10px;
+padding-bottom:30px;
+}
+a:active, a:hover {
+    outline: 0 none !important;
+}
+
+a {
+   outline: 0 !important;
+}
+
+
+.footer{
+	background: #eb008b;
+	height:10px;
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+}
+.wing{
+	width: 100%;
+	position:absolute;
+	margin-left:-50%;
+	margin-top:-20%;
+	z-index:-9999;
+	color: white;
+  text-shadow:
+   -1px -1px 0 #55c5d1,  
+    1px -1px 0 #55c5d1,
+    -1px 1px 0 #55c5d1,
+     1px 1px 0 #55c5d1;
+    
+}
+.circle {
+    width: 50%;
+    height:0;
+    padding-bottom: 50%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 80%;
+    background: #eb008b;
+	border-style: solid !important;
+	border-color: #ffffff !important;
+	
+	margin: 0 auto 30px;
+	color:#fff;
+	
+}
+.fhl{
+    
+font-size: 70px;
+height: 144px;
+line-height: 125px;
+color: white;
+  text-shadow:
+   -1px -1px 0 #55c5d1,  
+    1px -1px 0 #55c5d1,
+    -1px 1px 0 #55c5d1,
+     1px 1px 0 #55c5d1;
+
+}
+
+.login{
+max-width:440px;
+height:70px;
+background-color:#55c5d1 !important;
+border:10px !important;
+border-style: solid !important;
+border-color: #ffffff !important;
+margin: 0 auto 30px;
+}
+
+
+
+
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-color: #eb008b;
+    border-color: #eb008b #eb008b transparent;
+    border-image: none;
+    border-style: solid;
+    border-width: 1px;
+    color: #fff !important;
+    cursor: default;
+	border-radius:0px;
+}
+
+
+.nav-tabs > li > a:hover, .nav-tabs > li > a:focus {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-color: #eb008b;
+    border-color: #eb008b #eb008b transparent;
+    border-image: none;
+    border-style: solid;
+    border-width: 1px;
+    color: #fff;
+    cursor: default;
+	border-radius:0px;
+	
+}
+
+.nav-tabs {
+    border-bottom: 1px solid #eb008b;
+}
+.nav {
+    list-style: none outside none;
+    margin-bottom: 0;
+    background-color: #fff;
+    padding-left: 0;
+}
+
+.nav-tabs> li > a {
+	margin-right: 0;
+	border-radius:0px;
+	font-size: 40px;
+	color: #eb008b;
+	
+}
+
+
+.volunter-icon {
+    margin: 20% auto 30px;
+	background-color: transparent;
+    border: 3px solid #fff;
+	font-size: 108px;
+    height: 144px;
+    line-height: 140px;
+    width: 144px;
+	background-color: #fff;
+    border-radius: 15%;
+    color: #55c5d1;
+    cursor: default;
+    display: block;
+    font-weight: 500;
+    text-align: center;
+}
